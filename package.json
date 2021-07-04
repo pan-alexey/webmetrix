@@ -1,0 +1,22 @@
+{
+  "name": "webmetrix",
+  "version": "1.0.0",
+  "description": "Analyze web perfomance metrics",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pan-alexey/webmetrix.git"
+  },
+  "keywords": [
+    "metrics",
+    "webvitals",
+    "perfomance",
+    "rum"
+  ],
+  "author": "Pan Alexey <pan-alexey@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pan-alexey/webmetrix/issues"
+  },
+  "homepage": "https://github.com/pan-alexey/webmetrix#readme"
+}
